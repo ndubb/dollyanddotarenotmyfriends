@@ -1,7 +1,7 @@
 -- Dolly and Dot are Not My Friends (v1.2 - Updated 2020-06-29)
 
 local myName = "DaDaNMF"
-local myVersion = "v1.2"
+local myVersion = "v1.2.1"
 
 DaDSoundGroup = { category = "Unknown", name = "Unknown", ids = {} }
 
